@@ -12,6 +12,7 @@
 	<input type="hidden" name="execution" value="${flowExecutionKey}" />
 	<fieldset>
 		<table>
+		
 			<tr class="field">
 				<td class="label">Name:</td>
 				<td class="output">${hotel.name}</td>
